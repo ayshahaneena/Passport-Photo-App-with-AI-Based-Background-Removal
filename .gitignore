@@ -1,0 +1,4 @@
+# Ignore big files
+*.zip
+*.mp4
+*.pdf
