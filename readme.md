@@ -87,7 +87,7 @@ streamlit run app.py
 
 ---
 
-## 5. Results & Evaluation  
+## Results & Evaluation  
 
 ### 📈 Quantitative Metrics  
 | Metric              | Value |
@@ -103,7 +103,7 @@ streamlit run app.py
 
 ---
 
-## 6. Conclusion & Future Work  
+## Conclusion & Future Work  
 
 ### ✅ Conclusion  
 The project successfully developed an **AI-powered passport photo generator** that is accurate, real-time, and user-friendly.  
